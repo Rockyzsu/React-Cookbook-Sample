@@ -1,0 +1,15 @@
+.App {
+  margin: 32px;
+}
+
+.aDate {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-bottom: 1px solid #eee;
+    box-sizing: border-box;
+}
+
+.aDate-odd {
+    background-color: #eee;
+}

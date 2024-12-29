@@ -1,0 +1,39 @@
+.App {
+  margin: 32px;
+}
+
+textarea {
+    height: 100px;
+    width: 450px;
+}
+
+dt {
+    font-weight: bold;
+    margin-top: 16px;
+}
+
+input, textarea, button {
+    display: block;
+    margin-bottom: 16px;
+}
+
+dd {
+    margin-left: 0;
+}
+
+.error {
+    color: red;
+    font-size: 80%;
+}
+
+.error-contents {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+    padding: 16px;
+    margin: 20px;
+    background-color: #eee;
+}
+
+.loading {
+    color: blue;
+    font-style: italic;
+}
